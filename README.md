@@ -1,4 +1,4 @@
-[![MasterHead]([https://thumbs.gfycat.com/AlarmedOrganicAzurewingedmagpie-size_restricted.gif](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif))](https://aminbagheri.com)
+[![MasterHead]([https://thumbs.gfycat.com/AlarmedOrganicAzurewingedmagpie-size_restricted.gif])](https://aminbagheri.com)
 <h1 align="center">Hi 👋, I'm Amin Bagheri</h1>
 <h3 align="center">A passionate iOS Developer from Montréal, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
