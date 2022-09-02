@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on building a **Twitter Clone**
 
-- 👨‍💻 All of my projects are available at [aminbagheri.com](aminbagheri.com)
+- 👨‍💻 See my pinned repos for my projects! **(Scroll Down)**
 
-- 📫 How to reach me **contact@aminbagheri.com**
+- 📫 How to reach me **amin.bagheri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
