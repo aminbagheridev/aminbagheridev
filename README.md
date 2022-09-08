@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **TripleOne**
 
-- 👨‍💻 ** See my pinned repos for my projects! (Scroll Down)**
+- 👨‍💻 **See my pinned repos for my projects! (Scroll Down)**
 
 - 📖 Read my book here! **https://amzn.to/3L2pgSl**
 
