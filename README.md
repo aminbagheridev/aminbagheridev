@@ -7,7 +7,7 @@
 
 - 👨‍💻 **Scroll down to see my projects! (Pinned Repos!)**
 
-- ⛑ Download my app Pocket Rehab! **https://apple.co/3eApRi1**
+- ⛑ Download my app **Pocket Rehab**! **https://apple.co/3eApRi1**
 
 - 📖 Read my book here! **https://amzn.to/3L2pgSl**
 
