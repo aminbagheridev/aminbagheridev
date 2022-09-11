@@ -10,7 +10,7 @@
 
 - 📖 Read my book here! **https://amzn.to/3L2pgSl**
 
-- 📝 My resume is linked here: https://bit.ly/3RWseKw
+- 📝 My resume can be seen here: **https://bit.ly/3RWseKw**
 
 - 📫 How to reach me **amin.bagheri@gmail.com**
 
