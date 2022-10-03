@@ -8,8 +8,6 @@
 
 - ⛑ Download my app **Pocket Rehab!** **https://apple.co/3eApRi1**
 
-- 📝 My resume can be seen here: **https://bit.ly/3E83vz9**
-
 - 📫 How to reach me **amin.bagheri@gmail.com**
      
 [comment]: <> (- 📖 Read my book here! **https://amzn.to/3L2pgSl**) 
