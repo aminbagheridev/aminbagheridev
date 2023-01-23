@@ -1,8 +1,8 @@
 # 💫 Hey! About me:
 Hey! My name is Amin Bagheri and I am an iOS developer working on making the world a better place.
 
-# 🚀 My App: Pocket Rehab!
-![](https://pocketrehab.ca)
+# 🚀 My App: Pocket Rehab! [](https://pocketrehab.ca)
+
 ![Logo](https://github.com/bagheriamin/PocketRehab/blob/main/POCKET%20REHAB.png?raw=true)
 
 # 💻 Tech Stack:
