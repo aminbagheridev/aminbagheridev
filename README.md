@@ -1,5 +1,4 @@
-super dev. no, seriously.<br><br>stack:<br><br>mobile // ios with swift, android with kotlin<br><br>web // frontend with next.js, backend with express.js<br><br>automation // python<br><br>soon // ml/dl
-
+super dev. no, seriously.
 
 ### find me elsewhere:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bxgheri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bxgheri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bxgheri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bxgheri) 
