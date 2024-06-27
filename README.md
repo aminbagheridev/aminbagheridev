@@ -1,10 +1,10 @@
 # super dev. no, seriously.
 
-### Previous Professional Development Experiences:
+### previous professional development experiences:
 1. [EM:RAP](https://www.emrap.org/)
 2. [Apollo Scooters](https://apolloscooters.ca/)
 
-### Current:
+### current:
 3. Confidential
 
 ### find me elsewhere:
