@@ -1,5 +1,3 @@
-
-# wassup:
 super dev. no, seriously.<br><br>stack:<br><br>mobile // ios with swift, android with kotlin<br><br>web // frontend with next.js, backend with express.js<br><br>automation // python<br><br>soon // ml/dl
 
 
