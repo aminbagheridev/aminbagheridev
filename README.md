@@ -1,11 +1,11 @@
 # super dev. no, seriously.
 
-previous profesional dev experiences:
-1 - [emrap](https://www.emrap.org/)
-2 - [apollo scooters](https://apolloscooters.ca/)
+### Previous Professional Development Experiences:
+1. [EM:RAP](https://www.emrap.org/)
+2. [Apollo Scooters](https://apolloscooters.ca/)
 
-current:
-3 - confidential
+### Current:
+3. Confidential
 
 ### find me elsewhere:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bxgheri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bxgheri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bxgheri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bxgheri) 
