@@ -5,7 +5,7 @@
 2. [Apollo Scooters](https://apolloscooters.ca/)
 
 ### current:
-3. Confidential
+3. Confidential (Mobile + Full Stack Dev) 🤫
 
 ### find me elsewhere:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bxgheri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bxgheri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bxgheri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bxgheri) 
