@@ -1,4 +1,4 @@
-# super dev. no, seriously.
+# super dev.
 
 ### previous professional development experiences:
 1. [EM:RAP](https://www.emrap.org/)
