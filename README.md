@@ -1,5 +1,5 @@
 ## Experience: 
-1. [Current - Nooro](https://www.nooro-us.com/) 
+1. [Current - Confidential]([https://confidential.com/]) 
 2. [EM:RAP](https://www.emrap.org/)
 3. [Apollo Scooters](https://apolloscooters.ca/)
 
