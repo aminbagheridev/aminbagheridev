@@ -1,7 +1,8 @@
 ## Experience: 
-1. [Current - Confidential]([https://confidential.com/]) 
-2. [EM:RAP](https://www.emrap.org/)
-3. [Apollo Scooters](https://apolloscooters.ca/)
+1. [Mirror]([https://mirror.dating/]) 
+2. [Nooro]([https://nooro-us.com/]) 
+3. [EM:RAP](https://www.emrap.org/)
+4. [Apollo Scooters](https://apolloscooters.ca/)
 
 
 
